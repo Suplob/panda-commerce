@@ -53,3 +53,7 @@ input:focus {
   border-top-right-radius: 15px;
   border-bottom-right-radius: 15px;
 }
+
+.carousel {
+  margin-top: 6rem;
+}
